@@ -1,0 +1,18 @@
+{
+  "_keterangan": "Jam buka yang tidak ada di OpenStreetMap, dikumpulkan manual dari artikel. Hanya isi kalau ada sumber yang bisa dicek, dan pastikan alamat di artikel sama dengan lokasi di peta (bukan cabang lain). Format jam mengikuti opening_hours OSM. Digabungkan ke data/places.json oleh scripts/fetch-osm.mjs.",
+  "osm-way-192912453": {
+    "hours": "10:30-22:30",
+    "source": "detikSulsel, 27 Nov 2022",
+    "url": "https://www.detik.com/sulsel/kuliner/d-6429043/melahap-habis-sop-konro-legendaris-di-makassar-yang-empuk-dan-gurih"
+  },
+  "osm-node-1024327672": {
+    "hours": "10:00-23:00",
+    "source": "NU Online, 17 Mar 2024",
+    "url": "https://www.nu.or.id/daerah/jadwal-buka-puasa-kota-makassar-hari-ini-minggu-17-maret-2024-SeNPm"
+  },
+  "osm-way-227892149": {
+    "hours": "07:00-21:00",
+    "source": "NU Online, 17 Mar 2024",
+    "url": "https://www.nu.or.id/daerah/jadwal-buka-puasa-kota-makassar-hari-ini-minggu-17-maret-2024-SeNPm"
+  }
+}

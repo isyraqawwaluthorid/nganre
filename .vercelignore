@@ -1,0 +1,6 @@
+# Jangan unggah file rahasia dan hasil build lokal ke Vercel.
+.env*
+!.env.example
+supabase/.temp
+.next
+node_modules
